@@ -1,0 +1,16 @@
+#localVideo {
+  width: 180px;
+  height: auto;
+}
+
+#remotes {
+	margin-top: 20px;
+}
+#remotes video{
+	margin-right: 10px;
+	margin-bottom: 10px;
+  	max-width: 320px;
+  	max-height: 240px;
+  	min-width: 180px;
+  	min-height: auto;
+}
